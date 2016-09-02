@@ -1,5 +1,6 @@
 注：如果您的项目需要异步http，请联系609176445@qq.com！^_^
-1. 需要安装扩展libevent.
+
+1. 需要安装扩展libevent. 需要安装redis
 
 2. 需要配置redis，在AsyncHttp.php头部define定义
 
