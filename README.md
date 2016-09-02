@@ -1,12 +1,12 @@
-×¢£ºÈç¹ûÄúµÄÏîÄ¿ÐèÒªÒì²½http£¬ÇëÁªÏµ150302£¬Ãâ·Ñ°ïÄã²¿Êð£¡^_^
-1. ÐèÒª°²×°À©Õ¹libevent.
+æ³¨ï¼šå¦‚æžœæ‚¨çš„é¡¹ç›®éœ€è¦å¼‚æ­¥httpï¼Œè¯·è”ç³»609176445@qq.comï¼^_^
+1. éœ€è¦å®‰è£…æ‰©å±•libevent.
 
-2. ÐèÒªÅäÖÃredis£¬ÔÚAsyncHttp.phpÍ·²¿define¶¨Òå
+2. éœ€è¦é…ç½®redisï¼Œåœ¨AsyncHttp.phpå¤´éƒ¨defineå®šä¹‰
 
-3. Æô¶¯£º¸Ã²å¼þÐèÒªÔÚcliÃüÁîÐÐÆô¶¯
+3. å¯åŠ¨ï¼šè¯¥æ’ä»¶éœ€è¦åœ¨cliå‘½ä»¤è¡Œå¯åŠ¨
    /usr/local/php/bin/php AsyncHttp.php start
-4. ¹Ø±Õ£º
+4. å…³é—­ï¼š
    ps aux | grep AsyncHttp.php
-   ÕÒµ½¶ÔÓ¦µÄ½ø³Ìid
+   æ‰¾åˆ°å¯¹åº”çš„è¿›ç¨‹id
    kill -s 9 $PID
    
